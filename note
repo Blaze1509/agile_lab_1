@@ -1,0 +1,12 @@
+this is txt file created from laptop
+
+code used:
+
+git init
+    if clone:
+        git clone <repo>
+    if not clone then:
+        git remote add origin <repo>
+git add .
+git commit -m "commit name"
+git push origin main
